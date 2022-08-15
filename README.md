@@ -1,7 +1,10 @@
-# gtk-calculator
+## gtk-calculator
 
 ---
 
-**Libraries Used:**
+# Libraries Used:
 1. pYGtk
-2. gi
+2. Ti
+
+# Result
+![Image-Calculator][img/calc.png]

@@ -4,7 +4,7 @@
 
 # Libraries Used:
 1. pYGtk
-2. Ti
+2. Gi
 
 # Result
 ![Image-Calculator](img.png)

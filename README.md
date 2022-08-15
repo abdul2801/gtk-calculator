@@ -7,4 +7,4 @@
 2. Ti
 
 # Result
-![Image-Calculator][img/calc.png]
+![Image-Calculator][.img/calc.png]
